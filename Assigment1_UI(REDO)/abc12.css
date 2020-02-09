@@ -1,0 +1,27 @@
+.nav-link
+{
+
+	color: white;
+	font-size: 18px;
+}
+.nav-item
+{
+  color: white;
+}
+a:hover
+{
+   border-bottom: 2px solid red;
+   text-decoration: none;
+
+}
+li{
+	padding-right: 15px;
+}
+td{
+  height:350px;
+  width: 220px;
+  border-radius: 12px;
+ 
+
+}
+

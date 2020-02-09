@@ -1,0 +1,17 @@
+body{
+	font-family: sans-serif;
+
+}
+/*li{
+	margin:0;
+	padding: 0;
+}
+*/.vl{
+	 border-left: 10px solid green;
+  height: 65px;
+  border-radius: 2px;
+}
+button{
+	border-radius: 3px;
+
+}
